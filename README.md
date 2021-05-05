@@ -1,9 +1,9 @@
-# Receitas Caseiras  #
+# Receitas Caseiras :chicken:  #
 
-### Strogonoff de Frango :chicken: ###
+### Strogonoff de Frango :man_cook: ###
 
-1. Receita teste para o uso do Git e Github
+- Receita teste para o uso do Git e Github
 
-2. Banana Frita
+- Banana Frita
 
-3. Strogonoff de carnea
+- Strogonoff de carnea
